@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
-* Студент: [Фёдор Валентинович](https://up.htmlacademy.ru/javascript/26/user/2085327).
-* Наставник:[Дмитрий Гуляев](https://htmlacademy.ru/profile/dima).
+* Студент: [Фёдор Валентинович.](https://up.htmlacademy.ru/javascript/26/user/2085327).
+* Наставник:[Дмитрий Гуляев.](https://htmlacademy.ru/profile/dima).
 
 ---
 
